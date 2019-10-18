@@ -1,13 +1,10 @@
 # Front-end starter-pack
-***
 [![Pug](http://www.picshare.ru/uploads/191018/m8zNVlSH8J.gif)](https://pugjs.org) [![Webpack](http://www.picshare.ru/uploads/191018/5FP60nEM2F.gif)](https://webpack.js.org/) [![Sass](http://www.picshare.ru/uploads/191018/N0ov4WIH30.gif)](https://sass-lang.com/) [![Sass](http://www.picshare.ru/uploads/191018/iGJ33pUBpv.gif)](https://gulpjs.com/) 
-***
 ###### Based on [BEM](bem.info) methodology
 
 ## Inspired by [NTH-start-project](https://github.com/nicothin/NTH-start-project)
 
 ## Installation
-***
 ```sh
 $ git clone "https://github.com/Saniyook/front-end-starter-pack"
 $ cd front-end-starter-pack
@@ -15,7 +12,6 @@ $ npm i
 ```
 
 ## How to use
-***
 | Dev | Prod |
 |-----|------|
 |```$ npm start```| ```$ npm run build ```|
@@ -25,7 +21,6 @@ $ npm i
 `$ npm run build` will build your project to `dist/`
 
 ## How it works
-***
 1) Deleting all file from `dist/`
 2) Writen `src/pug/mixins.pug` with imports of all `.pug` files of `src/blocks`
 3) Compile `src/pages/*/**.pug` to `dist/*.html` with `gulp`
