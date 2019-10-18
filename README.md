@@ -6,7 +6,7 @@
 
 ## Inspired by [NTH-start-project](https://github.com/nicothin/NTH-start-project)
 
-## Instalation
+## Installation
 ***
 ```sh
 $ git clone "https://github.com/Saniyook/front-end-starter-pack"
